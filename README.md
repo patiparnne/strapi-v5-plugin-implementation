@@ -1,4 +1,4 @@
-# Strapi 5 Plugin Implementation
+# Strapi 5 Plugin Implementation Skill
 
 A Codex skill for creating, extending, debugging, and reviewing reusable Strapi 5 plugins and project-level plugin customizations. It guides architecture, native admin UX, schemas, permissions, host mapping, packaging, and compatibility verification.
 
