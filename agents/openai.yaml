@@ -1,0 +1,6 @@
+interface:
+  display_name: "Strapi 5 Plugin Implementation"
+  short_description: "Build reusable Strapi 5 plugins and project extensions"
+  default_prompt: "Use $strapi-v5-plugin-implementation to implement this reusable plugin or project extension with native admin UX and verified Strapi 5 compatibility."
+policy:
+  allow_implicit_invocation: true
